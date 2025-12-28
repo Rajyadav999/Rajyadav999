@@ -1,62 +1,75 @@
-## Hi there 👋  I’m Raj Yadav
-Third-Year B.E. IT Student | Full-Stack Developer | GenAI & DevOps Enthusiast
+## 👋 Hi there, I’m Raj Yadav  
+**Third-Year B.E. IT Student | Full-Stack Developer | GenAI & DevOps Enthusiast**
 
-I’m  Engineering student focused on building practical, real-world software systems.
-My interests span full-stack development,  GenAI integration, and DevOps fundamentals.
+I’m an engineering student focused on building **practical, real-world software systems**.  
+My interests span **full-stack development, Generative AI integration, and DevOps fundamentals**.
 
 I believe in learning by building — shipping projects, automating workflows, and improving systems step by step.
 
-Full-Stack Web Development:
+---
+
+### 💻 Areas of Focus
+
+**Full-Stack Web Development**  
 Developing end-to-end web applications using React and modern JavaScript on the frontend, with backend services built using Express (Node.js) and Python-based frameworks.
 
-Generative AI & NLP:
-Integrating large language models into applications to process natural language and enable intelligent features such as natural language to database querying.
+**Generative AI & NLP**  
+Integrating large language models into applications to process natural language and enable intelligent features such as natural language–to–database querying.
 
-DevOps & Deployment:
+**DevOps & Deployment**  
 Containerizing applications with Docker, managing version control with Git/GitHub, and implementing basic CI/CD workflows for automated builds and deployments.
 
-### 🛠️ Tech Stack 
+---
+
+### 🛠️ Tech Stack
+
 #### Frontend
-- React.js
-- HTML5, CSS3, JavaScript (ES6+)
-- Tailwind CSS
+- React.js  
+- HTML5, CSS3, JavaScript (ES6+)  
+- Tailwind CSS  
 
 #### Backend
-- Node.js, Express
-- FastAPI, Flask
-- RESTful APIs & authentication
+- Node.js, Express  
+- FastAPI, Flask  
+- RESTful APIs & authentication  
 
 #### Databases
-- MongoDB
-- MySQL
-- PostgreSQL (basic)
+- MongoDB  
+- MySQL  
+- PostgreSQL (basic)  
 
 #### AI / GenAI
-- Python
-- LLM integration (Groq, OpenAI-style APIs)
-- LangChain basics
-- Natural Language to SQL systems
+- Python  
+- LLM integration (Groq, OpenAI-style APIs)  
+- LangChain (basics)  
+- Natural Language → SQL systems  
 
 #### DevOps & Cloud (Foundational)
-- Docker (containerizing applications)
-- Git & GitHub (version control & collaboration)
-- CI/CD basics (GitHub Actions)
-- Linux fundamentals & shell scripting
-- Environment variables & secrets management
-- Basic deployment concepts (cloud & VPS)
+- Docker (containerization)  
+- Git & GitHub (version control & collaboration)  
+- CI/CD basics (GitHub Actions)  
+- Linux fundamentals & shell scripting  
+- Environment variables & secrets management  
+- Basic deployment concepts (Cloud & VPS)  
+
+---
 
 ### 🧠 Programming Languages
-- **JavaScript** – frontend & backend
-- **Python** – backend & AI
-- **SQL** – relational databases
-- **Mongodb** - nonrelational database
-- **Bash** – scripting & automation
+- **JavaScript** — frontend & backend  
+- **Python** — backend & AI  
+- **SQL** — relational databases  
+- **MongoDB** — NoSQL databases  
+- **Bash** — scripting & automation  
+
+---
 
 ### 📫 Connect With Me
-- **Email:** yraj43801@gmail.com
-- **LinkedIn:** www.linkedin.com/in/raj-yadav-706b60397
+- **Email:** yraj43801@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/raj-yadav-706b60397  
 
-⚠️ This profile reflects skills I actively practice and improve through real projects.
-Let's collaborate and build the future of technology together!
+---
+
+⚠️ This profile reflects skills I actively practice and improve through real projects.  
+Let’s collaborate and build meaningful technology.
 
 Let's collaborate and build the future of technology together! 
