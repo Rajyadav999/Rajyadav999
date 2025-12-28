@@ -29,20 +29,17 @@ Containerizing applications with Docker, managing version control with Git/GitHu
 - Tailwind CSS  
 
 #### Backend
-- Node.js, Express  
-- FastAPI, Flask  
+- Node.js, Express    
 - RESTful APIs & authentication  
 
 #### Databases
 - MongoDB  
 - MySQL  
-- PostgreSQL (basic)  
 
-#### AI / GenAI
-- Python  
+#### GenAI
 - LLM integration (Groq, OpenAI-style APIs)  
 - LangChain (basics)  
-- Natural Language → SQL systems  
+ 
 
 #### DevOps & Cloud (Foundational)
 - Docker (containerization)  
@@ -56,7 +53,7 @@ Containerizing applications with Docker, managing version control with Git/GitHu
 
 ### 🧠 Programming Languages
 - **JavaScript** — frontend & backend  
-- **Python** — backend & AI  
+- **Python** — backend 
 - **SQL** — relational databases  
 - **MongoDB** — NoSQL databases  
 - **Bash** — scripting & automation  
