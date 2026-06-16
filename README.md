@@ -61,7 +61,7 @@ Containerizing applications with Docker, managing version control with Git/GitHu
 ---
 
 ### 📫 Connect With Me
-- **Email:** ryadav.tech17@gmail.com 
+- **Email:** ryadav.tech17@gmail.com / rajy97745@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/raj-yadav-706b60397  
 
 ---
